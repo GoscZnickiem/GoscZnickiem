@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maciej 👋</h1>
+<h1 align="center">Hi, I'm Maciej! 👋</h1>
 
 <p align="center">
   <em>CS and Math student at University of Wrocław</em>
@@ -20,13 +20,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Computer Science and Mathematics student** at the **University of Wrocław**.
 My main interests lie in **systems programming**, **compiler design**, and **game engine architecture** — areas where theory meets practice.  
 
-- 🔭 Currently developing my own experimental programming language **[ELang](https://github.com/ELang)**
+- 💻 Extensive C++ knowledge
 - 🌱 Eager to learn new and interesting things
-- 🧠 Strong focus on applying mathematical thinking in coding challenges
+- 🧮 Strong focus on applying mathematical thinking in coding challenges
+- 🔭 Currently developing my own experimental programming language **[ELang](https://github.com/ELang)**
 - 📫 Reach me via e-mail: [maciej.z.zgierski@gmail.com](mailto:maciej.z.zgierski@gmail.com)
 - 🚀 I use Vim btw
